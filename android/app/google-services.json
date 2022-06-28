@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "471352851471",
+    "project_id": "diario-sintese",
+    "storage_bucket": "diario-sintese.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471352851471:android:bafc18ffc77b64e053f77a",
+        "android_client_info": {
+          "package_name": "br.com.meu_diario_de_sintese"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471352851471-k288d23t8730154vcbrtvl0qah64pg7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8cG9x_dESasONqLN2WtJ4pCdsq5mlnoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471352851471-k288d23t8730154vcbrtvl0qah64pg7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
